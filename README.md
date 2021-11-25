@@ -1,6 +1,6 @@
 # Tela de Login do Instagram 💻
 
-<a href="https://danilosilvaadriao.github.io/Tela-Inicial-da-Netflix/"><h2>Clique aqui para testar o projeto</h2></a>
+<a href="https://danilosilvaadriao.github.io/Tela-de-Login-Instagram/"><h2>Clique aqui para testar o projeto</h2></a>
 
  Nesse projeto foi desenvolvida a tela inicial de login do Instagram utilizando:
  
